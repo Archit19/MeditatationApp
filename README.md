@@ -1,3 +1,3 @@
 # MeditatationApp
 
-Meditation application using javascript
+Meditation application using javascript, CSS, HTML.
